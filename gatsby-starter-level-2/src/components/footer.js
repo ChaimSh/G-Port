@@ -18,7 +18,7 @@ const StyledFooter = styled.footer`
   background-color: var(--bg-content-color);
   padding: calc((var(--space) / 2));
   text-align: center;
-  font-size: 0.8rem;
+  font-size: 0.8rem;git addd
 
   ${mq.gt.xs} {
     flex-direction: row-reverse;
@@ -74,10 +74,6 @@ const Footer = ({ author }) => {
         <SocialIcons icons={socialIconList} />
       </StyledSocialContainer>
       <StyledRotator>
-        Made with
-        <span role="img" aria-label="heart emoji">
-          💖
-        </span>
       </StyledRotator>
     </StyledFooter>
   );
