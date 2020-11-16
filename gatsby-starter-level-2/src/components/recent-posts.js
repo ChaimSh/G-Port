@@ -108,7 +108,7 @@ const RecentPosts = ({ data }) => {
       <StyledH1>Latest Blog Posts</StyledH1>
       <StyledPostsContainer>{recentPosts}</StyledPostsContainer>
       <StyledBlogLinkContainer>
-        <TextLink label="View All Posts" link="/blog" />
+        <TextLink label="View All Posts" link="https://medium.com/@rabbichaim770" />
       </StyledBlogLinkContainer>
     </StyledSection>
   );
