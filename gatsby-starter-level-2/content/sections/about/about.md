@@ -4,8 +4,8 @@ about_image: './me.jpg'
 techs: ['Ruby', 'Sinatra', 'Ruby on Rails', 'SQL', 'Javascript', 'JQuery', 'React', 'Redux', 'Node', 'Express', 'PHP']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+Born and raised in Milwaukee, WI. I moved to Brooklyn, NY to study in University. Upon recieving a BA and Rabbinical Ordination I took a teaching position in ULY elementary school. 
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
+I married and moved to Chicago, IL. Here, I took a managerial role and simultaneously completed a Web Development course through Flatiron School. Truly an amazing experience. 
 
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+I feel that withn my experience I have gained skills that aany employer would appreciate. These include: communication, organization, team work, leadership skills and much more.
