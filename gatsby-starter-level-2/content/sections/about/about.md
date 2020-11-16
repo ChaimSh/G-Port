@@ -1,7 +1,7 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
+title: 'Passionate Programmer. Independent Thinker. Caring Father. Graduate of Flatiron Bootcamp for Software Development.'
 about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+techs: ['Ruby', 'Sinatra', 'Ruby on Rails', 'SQL', 'Javascript', 'JQuery', 'React', 'Redux', 'Node', 'Express', 'PHP']
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
