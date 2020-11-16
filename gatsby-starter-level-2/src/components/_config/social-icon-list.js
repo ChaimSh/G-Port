@@ -1,13 +1,14 @@
 export const socialIconList = [
-  {
-    name: 'twitter',
-    prefix: 'fab', // fab prefix for brands, fas for solid icons
-    link: 'https://twitter.com/',
-  },
+  // {
+  //   name: 'Medium',
+  //   prefix: 'fab', // fab prefix for brands, fas for solid icons
+  //   link: 'https://medium.com/@rabbichaim770',
+  // },
   {
     name: 'github',
     prefix: 'fab',
-    link: 'https://github.com/knochenmark/gatsby-starter-level-2',
+    link: 'https://github.com/ChaimSh',
+  // https://github.com/knochenmark/gatsby-starter-level-2
   },
   {
     name: 'codepen',
