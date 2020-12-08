@@ -69,9 +69,9 @@ const Contact = ({ data }) => {
         <StyledContacts>
           {address && (
             <StyledContainer>
-              <Icon icon="building" />
+              <Icon icon="home" />
               <StyledFormContainer>
-                <StyledForm>Office Location</StyledForm>
+                <StyledForm>Location</StyledForm>
                 <span>{address}</span>
               </StyledFormContainer>
             </StyledContainer>
